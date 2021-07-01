@@ -7,7 +7,8 @@ Admin
 ![admin](https://user-images.githubusercontent.com/72200498/124057748-b2a9c080-da45-11eb-9fc3-4d486221f00d.JPG)
 
 
-Training![training](https://user-images.githubusercontent.com/72200498/124058610-534cb000-da47-11eb-9497-b29bf399cb8c.JPG)
+Training
+![training](https://user-images.githubusercontent.com/72200498/124058610-534cb000-da47-11eb-9497-b29bf399cb8c.JPG)
 
 
 
@@ -17,5 +18,6 @@ Testing
 
 Prediction (UserHome)
 ![Prediction](https://user-images.githubusercontent.com/72200498/124057797-ca814480-da45-11eb-91ad-1a0a428c415a.JPG)
+
 
 
